@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://davb0.github.io/talos-site/sitemap.xml
